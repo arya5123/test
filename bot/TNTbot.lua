@@ -244,6 +244,7 @@ function create_config( )
     moderation = {data = 'data/moderation.json'},
     about_text = [[T.N.T ( AntiSpam ) best bot
     Sudo:@ShayanHaddadin2
+    Sudo:@Mosy15
 ]],
     help_text_realm = [[
 -------------------------
@@ -330,6 +331,8 @@ __________________________
 تگ : صدا کردن افراد گروه
 —---------------------—
 شما نمی توانید از !,/ استفاده کنید 
+---------------------—
+🙈😉 SuDo T.N.T BoT : @ShayanHaddadian2 😉🙈
 ]]
   }
   serialize_to_file(config, './data/config.lua')
