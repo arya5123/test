@@ -239,12 +239,12 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {100142213‚137264699},--Sudo users
+    sudo_users = {119863011},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[T.N.T ( AntiSpam ) best bot
-    Sudo:@ShayanHaddadin2
-    Sudo:@Mosy15
+    Sudo:elyas
+    Sudo:hacker
 ]],
     help_text_realm = [[
 -------------------------
@@ -332,7 +332,7 @@ __________________________
 —---------------------—
 شما نمی توانید از !,/ استفاده کنید 
 ---------------------—
-🙈😉 SuDo T.N.T BoT : @ShayanHaddadian2 😉🙈
+🙈😉 SuDo power BoT : @elyasgalikeshi 😉🙈
 ]]
   }
   serialize_to_file(config, './data/config.lua')
