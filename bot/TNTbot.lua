@@ -239,7 +239,7 @@ function create_config( )
     "time",
     "welcome"
     },
-    sudo_users = {119863011},--Sudo users
+    sudo_users = {138583448},{119863011},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[T.N.T ( AntiSpam ) best bot
@@ -332,7 +332,8 @@ __________________________
 —---------------------—
 شما نمی توانید از !,/ استفاده کنید 
 ---------------------—
-🙈😉 SuDo power BoT : @elyasgalikeshi 😉🙈
+🙈😉 SuDo power BoT :@hack9999
+ @elyasgalikeshi 😉🙈
 ]]
   }
   serialize_to_file(config, './data/config.lua')
